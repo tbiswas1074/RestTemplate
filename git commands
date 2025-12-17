@@ -1,0 +1,19 @@
+git clone repository name - clone a project
+ 
+git status - chcek status or etest code changes
+ 
+git add . - all add the changes or files for commit
+ 
+git add file name - single file add  for commit
+ 
+git commit -m "commit message" - commiting the code in local
+ 
+git branch - check all available branches for that project in git repository
+ 
+git branch branch name - creating new branch for the project
+ 
+git chckout branch name - go to a specific branch
+ 
+git push origin branch nam - push the commited code in the origin branch of your
+ 
+ 
